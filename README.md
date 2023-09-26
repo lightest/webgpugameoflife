@@ -1,4 +1,4 @@
-# WebGPU game of life.
+# WebGPU game of life
 
 First pass on webGPU with cellular automatons, implemented with compute shaders. Classic Conway's Game of Life ruleset.
 
